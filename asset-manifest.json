@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/docxandria/static/css/main.0951e0c8.css",
-    "main.js": "/docxandria/static/js/main.8cee52fa.js",
+    "main.js": "/docxandria/static/js/main.067a9c91.js",
     "static/media/bookwhite.png": "/docxandria/static/media/bookwhite.89ce23a3a9db409e95e9.png",
     "static/media/documentSearch.png": "/docxandria/static/media/documentSearch.662e9f1e7161f608a761.png",
     "static/media/mic1C.png": "/docxandria/static/media/mic1C.0ad19e9f3d7bbd935f46.png",
     "static/media/secure.svg": "/docxandria/static/media/secure.1494bf4f59aa64ec9a71224aff6b4f7d.svg",
     "index.html": "/docxandria/index.html",
     "main.0951e0c8.css.map": "/docxandria/static/css/main.0951e0c8.css.map",
-    "main.8cee52fa.js.map": "/docxandria/static/js/main.8cee52fa.js.map"
+    "main.067a9c91.js.map": "/docxandria/static/js/main.067a9c91.js.map"
   },
   "entrypoints": [
     "static/css/main.0951e0c8.css",
-    "static/js/main.8cee52fa.js"
+    "static/js/main.067a9c91.js"
   ]
 }
