@@ -1,19 +1,17 @@
 {
   "files": {
-    "main.css": "/docxandria/static/css/main.931f4a2e.css",
-    "main.js": "/docxandria/static/js/main.f08041f9.js",
-    "static/media/globe.svg": "/docxandria/static/media/globe.cb696ab0852c34f83357f6681f5983b9.svg",
+    "main.css": "/docxandria/static/css/main.0951e0c8.css",
+    "main.js": "/docxandria/static/js/main.8cee52fa.js",
     "static/media/bookwhite.png": "/docxandria/static/media/bookwhite.89ce23a3a9db409e95e9.png",
     "static/media/documentSearch.png": "/docxandria/static/media/documentSearch.662e9f1e7161f608a761.png",
     "static/media/mic1C.png": "/docxandria/static/media/mic1C.0ad19e9f3d7bbd935f46.png",
-    "static/media/global2green.svg": "/docxandria/static/media/global2green.32cdf51f41115ed6909ece1b1642a24b.svg",
     "static/media/secure.svg": "/docxandria/static/media/secure.1494bf4f59aa64ec9a71224aff6b4f7d.svg",
     "index.html": "/docxandria/index.html",
-    "main.931f4a2e.css.map": "/docxandria/static/css/main.931f4a2e.css.map",
-    "main.f08041f9.js.map": "/docxandria/static/js/main.f08041f9.js.map"
+    "main.0951e0c8.css.map": "/docxandria/static/css/main.0951e0c8.css.map",
+    "main.8cee52fa.js.map": "/docxandria/static/js/main.8cee52fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.931f4a2e.css",
-    "static/js/main.f08041f9.js"
+    "static/css/main.0951e0c8.css",
+    "static/js/main.8cee52fa.js"
   ]
 }
